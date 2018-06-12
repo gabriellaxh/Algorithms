@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\bin\Debug\netcoreapp2.0\ShellSort.deps.json
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\bin\Debug\netcoreapp2.0\ShellSort.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\bin\Debug\netcoreapp2.0\ShellSort.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\bin\Debug\netcoreapp2.0\ShellSort.dll
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\bin\Debug\netcoreapp2.0\ShellSort.pdb
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\obj\Debug\netcoreapp2.0\ShellSort.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\obj\Debug\netcoreapp2.0\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\obj\Debug\netcoreapp2.0\ShellSort.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\obj\Debug\netcoreapp2.0\ShellSort.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\obj\Debug\netcoreapp2.0\ShellSort.dll
+C:\Users\Gabriela\source\repos\Algorithms\ShellSort\obj\Debug\netcoreapp2.0\ShellSort.pdb

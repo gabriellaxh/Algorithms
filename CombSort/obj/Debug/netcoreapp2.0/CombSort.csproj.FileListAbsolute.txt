@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\obj\Debug\netcoreapp2.0\CombSort.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\obj\Debug\netcoreapp2.0\CombSort.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\obj\Debug\netcoreapp2.0\CombSort.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\obj\Debug\netcoreapp2.0\CombSort.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\bin\Debug\netcoreapp2.0\CombSort.deps.json
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\bin\Debug\netcoreapp2.0\CombSort.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\bin\Debug\netcoreapp2.0\CombSort.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\bin\Debug\netcoreapp2.0\CombSort.dll
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\bin\Debug\netcoreapp2.0\CombSort.pdb
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\obj\Debug\netcoreapp2.0\CombSort.dll
+C:\Users\Gabriela\source\repos\Algorithms\CombSort\obj\Debug\netcoreapp2.0\CombSort.pdb

@@ -1,0 +1,10 @@
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.deps.json
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.pdb
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\Gabriela\source\repos\Algorithms\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.pdb

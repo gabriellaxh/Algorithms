@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.deps.json
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.dll
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.pdb
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.dll
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.pdb
+C:\Users\Gabriela\source\repos\Algorithms\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.csprojResolveAssemblyReference.cache
