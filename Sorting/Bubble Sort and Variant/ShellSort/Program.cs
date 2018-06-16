@@ -17,22 +17,22 @@ namespace ShellSort
         {
             int gap = array.Length / 2;
 
-            int temp;
+            int valueOfTheDistant;
 
             while (gap > 0)
             {
                 for (int i = 0; i + gap < array.Length; i++)
                 {
-                    int j = i + gap;
-                    temp = array[j];
+                    int indexOfTheDistant = i + gap;
+                    valueOfTheDistant = array[j];
                     
-                    while (j - gap >= 0 && temp < array[j - gap])
+                    while (indexOfTheDistant - gap >= 0 && valueOfTheDistant < array[indexOfTheDistant - gap])
                     {
-                        array[j] = array[j - gap];
-                        j -= gap;
+                        array[indexOfTheDistant] = array[indexOfTheDistant - gap];
+                        indexOfTheDistant -= gap;
                     }
 
-                    array[j] = temp;
+                    array[indexOfTheDistant] = valueOfTheDistant;
                 }
 
                 gap /= 2;

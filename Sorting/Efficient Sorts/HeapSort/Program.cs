@@ -23,6 +23,7 @@ namespace HeapSort
                 HeapSort(array, n, i);
             }
 
+            //Sort the built heap
             for (int i = n-1; i >= 0; i--)
             {
                 // Move current root to end(the biggest num to the end)
