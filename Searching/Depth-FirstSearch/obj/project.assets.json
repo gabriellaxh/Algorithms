@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Depth-FirstSearch\\Depth-FirstSearch.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Searching\\Depth-FirstSearch\\Depth-FirstSearch.csproj",
       "projectName": "Depth-FirstSearch",
-      "projectPath": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Depth-FirstSearch\\Depth-FirstSearch.csproj",
+      "projectPath": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Searching\\Depth-FirstSearch\\Depth-FirstSearch.csproj",
       "packagesPath": "C:\\Users\\Gabriela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Depth-FirstSearch\\obj\\",
+      "outputPath": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Searching\\Depth-FirstSearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

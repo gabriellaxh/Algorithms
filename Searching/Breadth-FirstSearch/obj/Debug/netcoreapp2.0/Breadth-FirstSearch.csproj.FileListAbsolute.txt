@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\bin\Debug\netcoreapp2.0\Breadth-FirstSearch.deps.json
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\bin\Debug\netcoreapp2.0\Breadth-FirstSearch.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\bin\Debug\netcoreapp2.0\Breadth-FirstSearch.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\bin\Debug\netcoreapp2.0\Breadth-FirstSearch.dll
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\bin\Debug\netcoreapp2.0\Breadth-FirstSearch.pdb
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\obj\Debug\netcoreapp2.0\Breadth-FirstSearch.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\obj\Debug\netcoreapp2.0\Breadth-FirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\obj\Debug\netcoreapp2.0\Breadth-FirstSearch.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\obj\Debug\netcoreapp2.0\Breadth-FirstSearch.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\obj\Debug\netcoreapp2.0\Breadth-FirstSearch.dll
+C:\Users\Gabriela\source\repos\Algorithms\Searching\Breadth-FirstSearch\obj\Debug\netcoreapp2.0\Breadth-FirstSearch.pdb
