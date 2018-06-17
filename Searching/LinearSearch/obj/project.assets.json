@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\LinearSearch\\LinearSearch.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Searching\\LinearSearch\\LinearSearch.csproj",
       "projectName": "LinearSearch",
-      "projectPath": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\LinearSearch\\LinearSearch.csproj",
+      "projectPath": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Searching\\LinearSearch\\LinearSearch.csproj",
       "packagesPath": "C:\\Users\\Gabriela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\LinearSearch\\obj\\",
+      "outputPath": "C:\\Users\\Gabriela\\source\\repos\\Algorithms\\Searching\\LinearSearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
